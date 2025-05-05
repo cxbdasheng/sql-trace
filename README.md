@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="logo.png" alt="sql-trace">
+  <img src="logo.png" alt="sql-trace">
   <br>
 </h1>
 
