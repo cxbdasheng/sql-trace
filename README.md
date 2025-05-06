@@ -3,4 +3,8 @@
   <br>
 </h1>
 
-MySQL SQL 日志追踪神器
+一个简单的 MySQL SQL 日志追踪神器，轻松打印 MySQL SQL 语句。
+## 快速开始
+
+## 许可证
+MIT
